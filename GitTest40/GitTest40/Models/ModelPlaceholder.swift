@@ -10,7 +10,8 @@ import Foundation
 class ModelPlaceholder {
     
     func printHello() {
-        print("hello")
+        print("hello.")
+        print("Hi Byran!")
     }
     
     
