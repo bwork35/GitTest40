@@ -6,3 +6,12 @@
 //
 
 import Foundation
+
+class ModelPlaceholder {
+    
+    func printHello() {
+        print("hello")
+    }
+    
+    
+} //End of class
