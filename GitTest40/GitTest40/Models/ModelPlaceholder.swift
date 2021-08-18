@@ -11,6 +11,7 @@ class ModelPlaceholder {
     
     func printHello() {
         print("hello")
+        print("...i said hi")
     }
     
     
